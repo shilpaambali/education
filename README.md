@@ -1,4 +1,4 @@
 # education
 This is my first git repository
 <br>
-author shilpa
+author shilpa (apana college)
